@@ -1,11 +1,11 @@
 {
   "Version": "1.0",
   "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
-  "UrlUpdate": "https://raw.githubusercontent.com/VIPNETBR/Actualizacion/main/UrlUpdate",
+  "UrlUpdate": "https://raw.githubusercontent.com/Arnaldo2006/Freeonet/main/FREEONET3",
   "Sms": "",
   "EmailFeedback": "/",
-  "UrlContato": "https://wa.me/+595973599867",
-  "UrlTermos": "https://vipnetbr.github.io/conectapy_site/termos.html",
+  "UrlContato": "https://wa.me/+595986332530",
+  "UrlTermos": "https://youtube.com/channel/UCOgx-EXrXd7NEFLEUbO_Tyw",
   "CheckUser": "true",
   "FormatCheck": "yyyymmdd",
   "Udp": [
@@ -30,7 +30,7 @@
     {
       "Name": "TIGO [SERVIDOR 1]",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3j2jbg5btyvlw.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2wndgrlsq72ky.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "[app_host]",
       "TlsIP": "13.227.125.218",
       "ProxyIP": "",
@@ -40,7 +40,7 @@
     {
       "Name": "TIGO [SERVIDOR 2]",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d3a067cuhnv070.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2wndgrlsq72ky.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "13.227.125.218",
       "TlsIP": "13.227.125.218",
       "ProxyIP": "",
@@ -50,7 +50,7 @@
     {
       "Name": "TIGO [SERVIDOR 3]",
       "FLAG": "tim",
-      "Payload": "GET / HTTP/1.1[crlf]Host: d1nt0tpw3xxwhe.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET / HTTP/1.1[crlf]Host: d2wndgrlsq72ky.cloudfront.net[crlf]Connection: Upgrade[crlf]User-Agent: [ua][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "13.227.125.218",
       "TlsIP": "13.227.125.218",
       "ProxyIP": "",
