@@ -1,11 +1,11 @@
 {
-  "Version": "1.2",
+  "Version": "1.1",
   "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
   "UrlUpdate": "https://raw.githubusercontent.com/Arnaldo2006/Freeonet/main/FREEONET3",
   "Sms": "",
   "EmailFeedback": "/",
   "UrlContato": "https://wa.me/+595986332530",
-  "UrlTermos": "https://youtube.com/channel/UCOgx-EXrXd7NEFLEUbO_Tyw",
+  "UrlTermos": "https://raw.githubusercontent.com/Arnaldo2006/Freeonet/main/T%C3%A9rminos%20y%20privacidad",
   "CheckUser": "true",
   "FormatCheck": "yyyymmdd",
   "Udp": [
