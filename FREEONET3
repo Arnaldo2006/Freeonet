@@ -1,5 +1,5 @@
 {
-  "Version": "1.5",
+  "Version": "1.6",
   "ReleaseNotes": "NUEVA VERSIÓN DISPONIBLE",
   "UrlUpdate": "https://raw.githubusercontent.com/Arnaldo2006/Freeonet/main/FREEONET3",
   "Sms": "",
@@ -19,7 +19,7 @@
       "TYPE": "premium",
       "FLAG": "py.png",
       "ServerIP": "13.227.125.218",
-      "CheckUser": "URL: URL: http://168.138.131.194:5000/check/",
+      "CheckUser": "URL: URL: http://198.58.120.162:5000/check/",
       "ServerPort": "22",
       "SSLPort": "443",
       "USER": "",
