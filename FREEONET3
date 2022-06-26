@@ -40,7 +40,7 @@
     {
       "Name": "Claro Ar [SERVIDOR 2]",
       "FLAG": "tim",
-      "Payload": "GET wss://cloudflare.freeonet.tk HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
+      "Payload": "GET wss://uss-3.cdn-svr.com HTTP/1.1[crlf]Host: [app_host][crlf]Upgrade: websocket[crlf][crlf]",
       "SNI": "claroar.com.ar",
       "TlsIP": "claroar.com.ar",
       "ProxyIP": "",
