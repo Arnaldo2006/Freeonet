@@ -10,7 +10,7 @@
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.ibb.co/dtndtW5/images-6.png", 
+      "value": "https://ibb.co/4PS4LK7", 
       "name": "app_background_image"
     },
     {
