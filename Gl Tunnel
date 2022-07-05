@@ -3,13 +3,47 @@
 , "next_page": null
 , "has_prev": false
 , "has_next": false
-, "total": 6
+, "total": 10
 , "current_page": 1
 , "pages": 1
-, "results": [ { "name": "TIGO PY"
+, "results": [ { "name": "TIGOPY"
+, "config_v2ray": ""
+, "server_hostname": "52.85.213.227"
+, "description": "Free Fire
+, Pub-G"
+, "username": ""
+, "server_port": 80
+, "icon_image": "https://i.ibb.co/fqNkcV3/20220628-104206.png"
+, "user_id": 2
+, "password": ""
+, "udp_port": "7300"
+, "category_id": 1
+, "v2ray_uuid": ""
+, "primary_dns_server": "8.8.8.8"
+, "payload": "GET wess://d1gqffbz1k8rfz.cloudfront.net HTTP/1.1 \nHost:ARNALDOVIP.CLOUDFRONT.NET \nUpgrade: websocket \nConnection: Upgrade\n\n"
+, "status": "ACTIVE"
+, "secondary_dns_server": "8.8.4.4"
+, "sni": "52.85.213.227"
+, "config_mode": "ssh_direct"
+, "url_check_user": "http://20.206.116.61:5000"
+, "config_openvpn": ""
+, "proxy_hostname": "52.85.213.227"
+, "sort_order": 1
+, "id": 1
+, "proxy_port": 443
+, "category": { "name": "SSH VIVO"
+, "id": 1
+, "status": "ACTIVE"
+, "sort_order": 1
+, "user_id": 1
+, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c"
+, "description": "" } 
+
+}
+, { "name": "VIVO GOOGLE"
 , "SSH": ""
 , "server_hostname": ""
-, "description": "Tigo"
+, "description": "Navegar na Google"
 , "username": ""
 , "server_port": 443
 , "icon_image": "https://i.ibb.co/SfF1HGp/20220628-185515.png"
@@ -19,18 +53,18 @@
 , "category_id": 1
 , "v2ray_uuid": ""
 , "primary_dns_server": "1.1.1.1"
-, "payload": "GET wess://d1gqffbz1k8rfz.cloudfront.net HTTP/1.1 \nHost:ARNALDOVIP.CLOUDFRONT.NET \nUpgrade: websocket \nConnection: Upgrade\n\n"
+, "payload": "GET wss://money-staging.infinitepay.io/ HTTP/1.1[lf]Host: Seu Domínio[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]"
 , "status": "ACTIVE"
 , "secondary_dns_server": "1.0.0.1"
-, "sni": "52.85.213.227"
+, "sni": "money-staging.infinitepay.io"
 , "config_mode": "ssl_proxy"
 , "url_check_user": "http://20.206.116.61:5000"
 , "config_openvpn": ""
-, "proxy_hostname": "52.85.213.227"
+, "proxy_hostname": "104.24.10.16"
 , "sort_order": 2
 , "id": 2
 , "proxy_port": 443
-, "category": { "name": "SSH Tigo"
+, "category": { "name": "SSH VIVO"
 , "id": 1
 , "status": "ACTIVE"
 , "sort_order": 1
@@ -106,103 +140,34 @@
 , "description": "" } 
 
 }
-, { "name": "CLARO FILMES"
+, { "name": "TIGO"
 , "SSH": ""
 , "server_hostname": ""
-, "description": "Filmes & Séries"
+, "description": "Filmes e Séries"
 , "username": ""
 , "server_port": 443
 , "icon_image": "https://i.ibb.co/Z1cgyjj/20220628-191857.png"
 , "user_id": 2
 , "password": ""
 , "udp_port": "7300"
-, "category_id": 2
+, "category_id": 4
 , "v2ray_uuid": ""
 , "primary_dns_server": "8.8.8.8"
-, "payload": "GET wss://communitystaging.kaltura.com/ HTTP/1.1[crlf]Host: Seu Domínio[crlf]Upgrade: websockt[crlf][crlf]"
+, "payload": "GET wss://www.hbogo.com.br/ HTTP/1.1[lf]Host: Seu Domínio[lf]Proxy-Connection: Keep-Alive[lf]User-Agent: [ua][lf]Connection: upgrade[lf]Upgrade: websocket[lf]Sec-Websocket-Extensions: superspeed[lf][lf]"
 , "status": "ACTIVE"
 , "secondary_dns_server": "8.8.4.4"
-, "sni": "communitystaging.kaltura.com"
+, "sni": "www.hbogo.com.br"
 , "config_mode": "ssl_proxy"
 , "url_check_user": "http://20.206.116.61:5000"
 , "config_openvpn": ""
-, "proxy_hostname": "communitystaging.kaltura.com"
-, "sort_order": 3
-, "id": 6
-, "proxy_port": 443
-, "category": { "name": "SSH CLARO"
-, "id": 2
-, "status": "ACTIVE"
+, "proxy_hostname": "104.16.51.91"
 , "sort_order": 2
-, "user_id": 2
-, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c"
-, "description": "" } 
-
-}
-, { "name": "TIM VOIP"
-, "SSH": ""
-, "server_hostname": ""
-, "description": "Tigo Vip1"
-, "username": ""
-, "server_port": 443
-, "icon_image": "https://i.ibb.co/xJMf1kD/20220628-185623.png"
-, "user_id": 2
-, "password": ""
-, "udp_port": "7300"
-, "category_id": 3
-, "v2ray_uuid": ""
-, "primary_dns_server": "8.8.8.8"
-, "payload": "GET wess://d1gqffbz1k8rfz.cloudfront.net HTTP/1.1 \nHost:ARNALDOVIP.CLOUDFRONT.NET \nUpgrade: websocket \nConnection: Upgrade\n\n"
-, "status": "ACTIVE"
-, "secondary_dns_server": "8.8.4.4"
-, "sni": "52.85.213.227"
-, "config_mode": "ssl_proxy"
-, "url_check_user": "http://20.206.116.61:5000"
-, "config_openvpn": ""
-, "proxy_hostname": "52.85.213.227"
-, "sort_order": 1
-, "id": 7
+, "id": 11
 , "proxy_port": 443
-, "category": { "name": "SSH TIM"
-, "id": 3
+, "category": { "name": "SSH OI"
+, "id": 4
 , "status": "ACTIVE"
-, "sort_order": 3
-, "user_id": 3
-, "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c"
-, "description": "" } 
-
-{
-, { "name": "TIGOPY"
-, "SSH": ""
-, "server_hostname": "Seu Domínio"
-, "description": "TikTok
-, Instagram
-, Facebook
-, Twitter"
-, "username": ""
-, "server_port": 443
-, "icon_image": "https://i.ibb.co/vYwtXmQ/20220628-192721.png"
-, "user_id": 2
-, "password": ""
-, "udp_port": "7300"
-, "category_id": 3
-, "v2ray_uuid": ""
-, "primary_dns_server": "8.8.8.8"
-, "payload": "GET wess://d1gqffbz1k8rfz.cloudfront.net HTTP/1.1 \nHost:ARNALDOVIP.CLOUDFRONT.NET \nUpgrade: websocket \nConnection: Upgrade\n\n"
-, "status": "ACTIVE"
-, "secondary_dns_server": "8.8.4.4"
-, "sni": "52.85.213.227"
-, "config_mode": "ssl_proxy"
-, "url_check_user": "http://20.206.116.61:5000"
-, "config_openvpn": ""
-, "proxy_hostname": "52.85.213.227"
-, "sort_order": 3
-, "id": 9
-, "proxy_port": 443
-, "category": { "name": "SSH TIM"
-, "id": 3
-, "status": "ACTIVE"
-, "sort_order": 3
-, "user_id": 3
+, "sort_order": 4
+, "user_id": 4
 , "slug": "e5f3da23-dd2d-4871-9a03-59e315080e7c"
 , "description": "" } } ] } }
