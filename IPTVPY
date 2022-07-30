@@ -6,7 +6,7 @@
 https://cdn.cvattv.com.ar/live/c3eds/VTV_Plus_HD/SA_Live_dash_enc_2A/VTV_Plus_HD.mpd
 
 #KODIPROP:inputstream.adaptive.stream_headers=User-Agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36"
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", VTV PLUS 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png" tvg-group="DEPORTES", TIGO SPORTS PY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://cdn4.xaxa.live/keys/vtvpuy.json
-https://api1.tvgratis.live/streams/1246/manifest.mpd
+#KODIPROP:inputstream.adaptive.license_key=https://ed7.zorrohd2.nl/keys/ST6f18af4dfb8b268.json
+https://ed7.zorrohd2.nl/live/ST6f18af4dfb8b268.m3u8
